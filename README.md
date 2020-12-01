@@ -1,4 +1,4 @@
-# Carpentries-in-South-Africa-Retrospective-2020
+# Carpentries in South-Africa Retrospective 2020
 
 ## Goal 1: Establish Communications Platform for African Carpentries Community
 ### :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
@@ -29,9 +29,9 @@
 ##### Currently active projects
   - GLOBAL: Glosario is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson’s metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library’s functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several languages.
   - GLOBAL: Partner with organisations to promote EIA: We are partnering with the following institutions in Africa to promote the development of an African Carpentries Community. Focussing on African solutions to African problems
-  - WACREN: Developing an asynchronous course for R with the use of the Carpentries lessons. 
-  - OpenCIDER (Open Computational Inclusion and Digital Equity Resource) offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. They have a particular interest in low bandwidth countries and solutions. 
-  - Bioinformatics Hub of Kenya: Serah and I are supporting them to grow a Carpentries community in Kenya. Projects in planning phase
+  -WACREN: Developing an asynchronous course for R with the use of the Carpentries lessons. 
+  -OpenCIDER (Open Computational Inclusion and Digital Equity Resource) offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. They have a particular interest in low bandwidth countries and solutions. 
+  -Bioinformatics Hub of Kenya: Serah and I are supporting them to grow a Carpentries community in Kenya. Projects in planning phase
 - GLOBAL: Additional resources to accompany lessons (cheat sheets; videos; app; asynchronous resources): Mindmap project perhaps 2021 Q1/Q2 (pending project)
 - GLOBAL: Datasets - more culturally diverse
 - REGIONAL/GLOBAL: Multilingual instruction - basic translations within workshops by a native speaker
