@@ -2,23 +2,23 @@
 
 ## Goal 1: Establish Communications Platform for African Carpentries Community
 :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
-####Slack
+#### Slack
 - Channel was introduced in 2020 and have 35 members
-TopicBox
+#### TopicBox
 - This medium will become the main form of email communication from 1 January 2021.
 - Currently have 70 members
-Google Group Mailing list
+#### Google Group Mailing list
 - Migrating all communications to TopicBox as of 31 December 2020
-African Instructors Monthly Meet-up
+#### African Instructors Monthly Meet-up
 - Monthly calls, moving away from pre/post workshops discussion but how instructors are dealing with COVID and teaching online, what infrastructure has helped etc. African  solutions for African problems. Attendees from Botswana, Ethiopia, Ghana, Kenya, Namibia, Nigeria, United Kingdom, South Africa, Sweden, United Kingdom and the United States of America. 
-African Carpentries Community Calendar
+#### African Carpentries Community Calendar
 - This calendar is copied to Community Calendar and indicate monthly African Carpentries Meet-ups
-Carpentries in Africa - Carpentries Handbook
+#### Carpentries in Africa - Carpentries Handbook
 - Continuously updated throughout 2020 with latest developments in the region including blog posts of happenings on the continent. 
-The Carpentries in South Africa - Carpentries.org
+#### The Carpentries in South Africa - Carpentries.org
 - Continuously updated throughout 2020. Includes information on Regional Coordinator for Southern Africa as well as instructors who opted in to the website. This page links back   to Carpentries in Africa page in the Carpentries Handbook.  
-Blog posts for 2019/2020
-Teaching Data Skills in Africa: A Conversation with Angelique van Rensburg
+#### Blog posts for 2019/2020
+#### Teaching Data Skills in Africa: A Conversation with Angelique van Rensburg
 
 :star:Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
 Embarked on a thematic literature review to identify challenges when teaching programming on the continent. The review consisted of various levels:
