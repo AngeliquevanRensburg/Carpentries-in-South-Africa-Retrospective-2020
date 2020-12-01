@@ -1,16 +1,16 @@
 # Carpentries-in-South-Africa-Retrospective-2020
 
 ## Goal 1: Establish Communications Platform for African Carpentries Community
-Review, update and maintain communications platforms aimed at the African Carpentries Community
+:star: Review, update and maintain communications platforms aimed at the African Carpentries Community
 Slack
-Channel was introduced in 2020 and have 35 members
+- Channel was introduced in 2020 and have 35 members
 TopicBox
-This medium will become the main form of email communication from 1 January 2021.
-Currently have 70 members
+- This medium will become the main form of email communication from 1 January 2021.
+- Currently have 70 members
 Google Group Mailing list
-Migrating all communications to TopicBox as of 31 December 2020
+- Migrating all communications to TopicBox as of 31 December 2020
 African Instructors Monthly Meet-up
-Monthly calls, moving away from pre/post workshops discussion but how instructors are dealing with COVID and teaching online, what infrastructure has helped etc. African solutions for African problems. Attendees from Botswana, Ethiopia, Ghana, Kenya, Namibia, Nigeria, United Kingdom, South Africa, Sweden, United Kingdom and the United States of America. 
+- Monthly calls, moving away from pre/post workshops discussion but how instructors are dealing with COVID and teaching online, what infrastructure has helped etc. African  solutions for African problems. Attendees from Botswana, Ethiopia, Ghana, Kenya, Namibia, Nigeria, United Kingdom, South Africa, Sweden, United Kingdom and the United States of America. 
 African Carpentries Community Calendar
 This calendar is copied to Community Calendar and indicate monthly African Carpentries Meet-ups
 Carpentries in Africa - Carpentries Handbook
