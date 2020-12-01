@@ -27,6 +27,8 @@ Led to a deeper relationship with UWC, promoting workshops, attendance of Africa
 Communique regarding the developments in The Carpentries have been forwarded to the five universities throughout 2020 (i.e. Carpentry Clippings) to highlight that even through the pandemic we have been capacitating scholars and researchers with foundational coding and data analytic skills. 
 -*Note: Due to pandemic all discussions were halted by organisations, their priority was to support student basic needs (i.e access to laptops and data). Funding for membership, for the most part, has been limited. Organisations have hinted that since fees are in USD aimed at developed economies this might be a hindrance to taking up membership.* 
 
+used instructor training event of NWU as membership drive opportunity
+
 :star: Membership Check-in’s
 South Africa currently have two Platinum membership
 NWU - quarterly check-in arranged with members to help organise workshops and instructor training events. 
