@@ -32,13 +32,6 @@
     * WACREN: Developing an asynchronous course for R with the use of the Carpentries lessons. 
     * OpenCIDER (Open Computational Inclusion and Digital Equity Resource) offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. They have a particular interest in low bandwidth countries and solutions. 
     * Bioinformatics Hub of Kenya: Serah and I are supporting them to grow a Carpentries community in Kenya. Projects in planning phase
-- GLOBAL: Additional resources to accompany lessons (cheat sheets; videos; app; asynchronous resources): Mindmap project perhaps 2021 Q1/Q2 (pending project)
-- GLOBAL: Datasets - more culturally diverse
-- REGIONAL/GLOBAL: Multilingual instruction - basic translations within workshops by a native speaker
-- ITT: How to support learning difficulties, perhaps add to the current IT curriculum/Bonus module.
-- ITT: Computer literacy module - partner with other institution (Google for Africa)
-- ITT: Addressing cognitive load issues - since English is not 1st language
-
 
 ##### Milestones achieved
 :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
@@ -46,17 +39,5 @@
 ##### Ongoing milestones
 :star: Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
 
-###### Currently active projects
-- GLOBAL: Glossario 
-- GLOBAL: Partner with organisations to promote EIA
 
-##### Pending milestones
-:star: Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
-
-###### Projects pending
-
-- GLOBAL: Datasets - more culturally diverse
-- REGIONAL/GLOBAL: Multilingual instruction - basic translations within workshops by a native speaker
-- ITT: Computer literacy module - partner with other institution (Google for Africa)
-- ITT: Addressing cognitive load issues - since English is not 1st language
 
