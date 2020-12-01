@@ -2,9 +2,11 @@
 :star: Gather information on Membership options as it currently stands
 Various meetings with Elizabeth Williams regarding membership.
 My role has grown now and am part of the membership team and am responsible for the day to day administrative duties regarding membership. 
+
 :star: Design marketing material for distribution to African Organisations/Universities
 Researched information needed for future members and developed documentation. 
 Membership One-pager 
+
 :star: Identify possible African Organisations/Universities to target and contact Identified organisations and inform them about the benefits of Membership at The Carpentries
 Identified five universities
 - The University of KwaZulu Natal (UKZN)
@@ -41,6 +43,7 @@ Instructor training event carried over to 2021.
 1 Online Library Carpentry Workshop (completed
 2 In-person Data Carpentry Workshops (cancelled)
 Due to pandemic
+
 :star: Reach out to organisations who did not take up membership
 Embarking on a series of calls to investigate what universities in South Africa would like to see in the membership program. This will go hand in hand with the new membership program
 Will commence in 2021 together with the new Director of Partnerships and when the membership program has been initiated. 
