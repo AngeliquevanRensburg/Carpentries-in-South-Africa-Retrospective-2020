@@ -1,4 +1,4 @@
-# Carpentries in South-Africa Retrospective 2020
+# Carpentries in South Africa Retrospective 2020
 
 ## Goal 1: Establish Communications Platform for African Carpentries Community
 ### :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
