@@ -40,20 +40,20 @@
 - ITT: Addressing cognitive load issues - since English is not 1st language
 
 
-#####Milestones achieved
+##### Milestones achieved
 :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
 
-#####Ongoing milestones
+##### Ongoing milestones
 :star: Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
 
-######Currently active projects
+###### Currently active projects
 - GLOBAL: Glossario 
 - GLOBAL: Partner with organisations to promote EIA
 
-#####Pending milestones
+##### Pending milestones
 :star: Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
 
-######Projects pending
+###### Projects pending
 
 - GLOBAL: Datasets - more culturally diverse
 - REGIONAL/GLOBAL: Multilingual instruction - basic translations within workshops by a native speaker
