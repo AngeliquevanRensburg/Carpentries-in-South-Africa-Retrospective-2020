@@ -1,7 +1,7 @@
 # Carpentries-in-South-Africa-Retrospective-2020
 
 ## Goal 1: Establish Communications Platform for African Carpentries Community
-:star: ###Review, update and maintain communications platforms aimed at the African Carpentries Community
+###:star: Review, update and maintain communications platforms aimed at the African Carpentries Community
 ####Slack
 - Channel was introduced in 2020 and have 35 members
 ####TopicBox
