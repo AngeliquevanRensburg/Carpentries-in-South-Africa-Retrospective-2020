@@ -10,22 +10,22 @@ Membership One-pager
 :star: Identify possible African Organisations/Universities to target and contact Identified organisations and inform them about the benefits of Membership at The Carpentries
 Identified five universities
 - The University of KwaZulu Natal (UKZN)
-Multiple attempts to communicate with University without any response
-An established Carpentries community at UKZN no response to any communication
+  - Multiple attempts to communicate with University without any response. An established Carpentries community at UKZN no response to any communication
 - The University of Cape Town (UCT)
-Not looking for membership at this moment
-Reached our regarding Data Carpentry workshops (via SADiLaR) in 2021)
+  - Not looking for membership at this moment. Reached our regarding Data Carpentry workshops (via SADiLaR) in 2021)
 - The University of Stellenbosch (US)
-Interested however do not have the funding
+  - Interested however do not have the funding
 - University of Witwatersrand (WITS)
-Multiple attempts to communicate with University without any response
-Hosted Data Carpentry workshop January 2020 for Masters of data Science students. 
+  - Multiple attempts to communicate with University without any response
+  - Hosted Data Carpentry workshop January 2020 for Masters of data Science students. 
 - The University of Western Cape (UWC)
-Interested however do not have the funding
-- In-person workshop organised at UWC but had to cancel due to pandemic. 
-Led to a deeper relationship with UWC, promoting workshops, attendance of African Carpentries meetup, as well as an additional instructor at UWC. 
+  - Interested however do not have the funding
+  - In-person workshop organised at UWC but had to cancel due to pandemic. 
+  - Led to a deeper relationship with UWC, promoting workshops, attendance of African Carpentries meetup, as well as an additional instructor at UWC. 
+
 Communique regarding the developments in The Carpentries have been forwarded to the five universities throughout 2020 (i.e. Carpentry Clippings) to highlight that even through the pandemic we have been capacitating scholars and researchers with foundational coding and data analytic skills. 
--*Note: Due to pandemic all discussions were halted by organisations, their priority was to support student basic needs (i.e access to laptops and data). Funding for membership, for the most part, has been limited. Organisations have hinted that since fees are in USD aimed at developed economies this might be a hindrance to taking up membership.* 
+
+*Note: Due to pandemic all discussions were halted by organisations, their priority was to support student basic needs (i.e access to laptops and data). Funding for membership, for the most part, has been limited. Organisations have hinted that since fees are in USD aimed at developed economies this might be a hindrance to taking up membership.* 
 
 used instructor training event of NWU as membership drive opportunity
 
