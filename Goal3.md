@@ -21,4 +21,5 @@
 
 ### Milestones achieved:
 :star: Evaluate, Adapt/Integrate current Workshop Administration Workflow with African/SADILAR/MoU needs
+
 :star: Recruitment for Workshops (SADiLaR as per MoU)
