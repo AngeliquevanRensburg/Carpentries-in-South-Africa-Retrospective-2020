@@ -3,7 +3,7 @@
 - Acted as helper during the summer school in January 2020
 ### :star: CODATA-RDA Summer School South Africa 2021
 - Consultant for organising committee regarding online offering of summer school
-### Carpentries in Africa
+### :star: Carpentries in Africa
   - WACREN - Dr Kafayat  and Dr Margareth Gfrefer are working together to develop an R based learning programm based on the Carpentries lessons - https://wacren.net/en/news/women-wacren-physical-computing-python
   - Carpentries in Ethiopia
     - Hosted 2 Data Carpentry workshops during October/November 2020
