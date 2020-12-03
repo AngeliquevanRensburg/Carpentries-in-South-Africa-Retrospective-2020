@@ -1,4 +1,4 @@
-### Did you meet your Milestones?
+### :question:  Did you meet your Milestones?
 - I have realised that most milestones are ongoing for example: 
   - African Carpentries Monthly meetups will go on annually (10 a year). 
   - Communications Platforms need monthly maintenance. 
@@ -32,13 +32,13 @@
     - Kenya
     - Ethiopia
   - Monthly calls with OpenCider 
-### Did you have the right number of projects for your team?
+### :question: Did you have the right number of projects for your team?
 - For now yes, as we grow we might need another team member to support with administrative tasks, so more focus could be given to strategic tasks for the region. 
 
-### What resources, data, or metrics did you need that you didn’t have? 
+### :question: What resources, data, or metrics did you need that you didn’t have? 
 - It's not a matter of did not have, perhaps didn't know were needed or existed. Brainstorming with Kari helped a lot, to either find, develop or get the necessary resources.
 
-### What took longer than expected?
+### :questions: What took longer than expected?
 - Organising in-person workshops - had difficulty to get concrete dates, times etc for hosting of workshops by institutions. The pandemic did not help either. Had a recent discussion with Naoe Tatara and it seems also to be the case in the Nordic Region. 
 - To hash out what the role of Regional Consultant entails.
 - SADiLaR expectations regarding the role of the Regional Consultant.
@@ -48,21 +48,21 @@
   - As the pandemic hit and universities needed to move their focus to funding laptops and data to students discussions were halted. 
     - Organisations needed funds for basic needs to students
 
-### What took shorter than expected?
+### :question: What took shorter than expected?
 - Administrative tasks
 - Updating communications platforms
 - Updating Carpentries Handbook
 - Updating Carpentries.org
 - Updating Workshop Administration workflow
 
-### Did you need to change the goals for the project?
+### :question: Did you need to change the goals for the project?
 - 2020 Meetup to two virtual skill-up sessions
 - Carrying over 1 instructor training event to 2021 (per request from SADiLaR)
 
-### How did the process of making decisions about the project work?
+### :question: How did the process of making decisions about the project work?
 - I did most of the decision making but brainstormed with my Supervisor if I wasn’t clear
 
-### New initiatives to be implemented in 2021?
+### :question: New initiatives to be implemented in 2021?
 - The Carpentries in South Africa Strategic Plan 2021:
     - Include monthly/quarterly meetups/standing agenda items in team meetings to discuss happenings in the region:
     - Equity Inclusion and Access intiiatives
@@ -80,7 +80,7 @@
 - CarpentryConnect South Africa 2021
 - Post instructor training support (for completion of checkout)
 
-### What will I keep doing in 2021?
+### :question: What will I keep doing in 2021?
 - Coordination of monthly African Carpentries Community Call
   - Move more towards skill up sessions as identified by the community.
 - Address issues of equity and access appropriate to the region 
