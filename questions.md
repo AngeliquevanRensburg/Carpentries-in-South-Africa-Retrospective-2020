@@ -38,7 +38,7 @@
 ### :question: What resources, data, or metrics did you need that you didn’t have? 
 - It's not a matter of did not have, perhaps didn't know were needed or existed. Brainstorming with Kari helped a lot, to either find, develop or get the necessary resources.
 
-### :questions: What took longer than expected?
+### :question: What took longer than expected?
 - Organising in-person workshops - had difficulty to get concrete dates, times etc for hosting of workshops by institutions. The pandemic did not help either. Had a recent discussion with Naoe Tatara and it seems also to be the case in the Nordic Region. 
 - To hash out what the role of Regional Consultant entails.
 - SADiLaR expectations regarding the role of the Regional Consultant.
