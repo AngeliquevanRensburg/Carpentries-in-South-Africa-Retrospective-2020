@@ -1,4 +1,4 @@
-## How does the role of Regional Consultant (Manager) look different to that of an Regional Coordinator
+## How does the role of Regional Consultant (Manager) look different to that of an [Regional Coordinator](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
 - Part of Core Team
  - Most of Core Team service North-America, Europe and Australasia
  - Thus a whole full fledged team servicing only a part of the globe. This does not include development of The Carpentries in this region. 
