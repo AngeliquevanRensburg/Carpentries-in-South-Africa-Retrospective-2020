@@ -15,5 +15,5 @@
 - SADiLaR opted for 2 instructor training events in 2021 post-pandemic.
 
 
-## Milestones achieved:
+## :large_blue_diamond: Milestones achieved:
 :star: Arrange at least two instructor training workshops for 2020
