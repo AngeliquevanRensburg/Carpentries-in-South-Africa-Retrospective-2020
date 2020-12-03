@@ -7,6 +7,6 @@
 ## [Goal 5](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal5.md): African Community Meetup 2020
 ## [Goal 6](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal6.md): Financial Stability
 ## [Other activities](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Other.md)
-## [Ret](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/questions.md)
+## [Retrospective questions](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/questions.md)
 ## [How does the role of Regional Consultant (Manager) look different to that of an Regional Coordinator](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/RegionalManager.md)
 
