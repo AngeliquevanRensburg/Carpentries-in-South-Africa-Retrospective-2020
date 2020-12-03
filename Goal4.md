@@ -6,7 +6,7 @@
     - Angelique van Rensburg
     - Juan Steyn
     - Caroline Ajilogba
-  - 11 learners
+  - 12 learners
   - 4 checked out (3 x DC, 1 X LC)
     - They have taught online workshops of acted as helpers post-training
   - NWU offered seats to other SA universities to promote the Carpentries and to support the membership program.
