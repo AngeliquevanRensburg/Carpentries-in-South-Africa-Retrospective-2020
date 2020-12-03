@@ -6,5 +6,5 @@
     - Skill-up 2: The Senior Director of Technology at The Carpentries, Dr François Michonneau will be demonstrating how to adapt the Carpentries Website Template for use during your workshops
   - CS&C Funding has been granted to the value of $18 898 to host online CarpentryConnect South Africa 2021. 
 
-## Milestones achieved:
+### Milestones achieved:
 :star: Arrange one in-person/virtual meetup for the community in (Southern) Africa. 
