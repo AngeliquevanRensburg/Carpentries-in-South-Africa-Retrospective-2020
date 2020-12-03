@@ -1,6 +1,6 @@
 ## Goal 3: Workshop Administration
 
-##:star: Evaluate, Adapt/Integrate current Workshop Administration Workflow with African/SADILAR/MoU needs
+## :star: Evaluate, Adapt/Integrate current Workshop Administration Workflow with African/SADILAR/MoU needs
 - The following workflows have been adapted:
   - [Centrally organised workshops - South Africa](https://app.asana.com/0/1157016697286612/list)
   - [Self-organised workshops - South Africa](https://app.asana.com/0/1189471572757647/list)
