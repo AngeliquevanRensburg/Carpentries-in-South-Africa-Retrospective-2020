@@ -1,6 +1,6 @@
 ### Did you meet your Milestones?
 - I have realised that most milestones are ongoing for example: 
- - African Carpentries Monthly meetups will go on annually (10 a year). 
+  - African Carpentries Monthly meetups will go on annually (10 a year). 
  - Communications Platforms need monthly maintenance. 
  - Equity, Inclusion and Access as it pertains to the region (ongoing evaluation, implementation etc).
  - Membership drive needs to be adapted annually as needed. 
