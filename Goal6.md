@@ -12,7 +12,7 @@
 ### Milestones achieved:
 :star: Financial Stability of the Carpentries in South Africa
 
-### Ongoing milestone:
+### Ongoing milestones:
 :star: Assist in creating an overall business plan to help The Carpentries achieve financial stability in the region
 
 :star: Sponsorship and Funding opportunities
