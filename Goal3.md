@@ -19,7 +19,7 @@
 - During the pandemic SADiLaR became the actual hosts of workshops, the need arose to clarify what role the RC and SADiLaR will be taking in hosting online workshops.
  - [This was addressed in consultation with the new agreement and strategic planning will fill in any gaps](https://docs.google.com/spreadsheets/d/1d7iTxamHS-yBffDYSBBdPOLpqblQRUHg_oHOWvRDsFw/edit#gid=0)
 
-### Milestones achieved:
+### :large_blue_diamond: Milestones achieved:
 :star: Evaluate, Adapt/Integrate current Workshop Administration Workflow with African/SADILAR/MoU needs
 
 :star: Recruitment for Workshops (SADiLaR as per MoU)
