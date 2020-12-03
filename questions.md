@@ -71,7 +71,7 @@
     - Workshop administration team
     - Instructor development and training team
     - Business team
--Include initiatives in how to increase involvement of instructors in the region, pertaining to:
+- Include initiatives in how to increase involvement of instructors in the region, pertaining to:
     - Teaching workshops
     - Attendance of African Carpentries Meetup.
   - Migrate mailing list from Google Groups to TopicBox 
