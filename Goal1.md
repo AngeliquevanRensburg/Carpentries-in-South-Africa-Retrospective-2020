@@ -41,10 +41,10 @@
 - ITT: Addressing cognitive load issues (i.e when English is not your first language)
 
 
-### Milestones achieved
+### :large_blue_diamond: Milestones achieved
 :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
 
-### Ongoing milestones
+### :large_blue_diamond: Ongoing milestones
 :star: Address issues of equity and access appropriate to the region (including but not limited to religion, race and ethnic background, sexual orientation and gender identity, timezone, etc)
 
 
