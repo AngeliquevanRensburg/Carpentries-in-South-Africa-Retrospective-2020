@@ -46,10 +46,10 @@ Communique regarding the developments in The Carpentries have been forwarded to 
 ### :star: Reach out to organisations who did not take up membership
 Embarking on a series of calls to investigate what universities in South Africa would like to see in the membership program. This will go hand in hand with the new membership program. 
 
-#### Milestones achieved:
+### Milestones achieved:
 Gather information on Membership options as it currently stands
 
-#### Ongoing milestones:
+### Ongoing milestones:
 Identify possible African Organisations/Universities to target and contact Identified organisations and inform them about the benefits of Membership at The Carpentries
 Membership Check-in’s
 Design marketing material for distribution to African Organisations/Universities
