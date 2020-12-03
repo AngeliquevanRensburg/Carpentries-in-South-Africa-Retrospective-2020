@@ -27,11 +27,11 @@
   - Updated Carpentries.org: The Carpentries in South Africa
   - Evaluated, adapted and integrated current Workshop Administration Workflow with African/SADILAR/MoU needs
   - Additional: Carpentries in Africa
-   - Supported instructors in developing Carpentries Communities in :
-    - West-Africa/Women of WACREN
-    - Kenya
-    - Ethiopia
-  - Monthly calls with OpenCider 
+    - Supported instructors in developing Carpentries Communities in :
+      - West-Africa/Women of WACREN
+      - Kenya
+      - Ethiopia
+      - Monthly calls with OpenCider 
 ### :question: Did you have the right number of projects for your team?
 - For now yes, as we grow we might need another team member to support with administrative tasks, so more focus could be given to strategic tasks for the region. 
 
