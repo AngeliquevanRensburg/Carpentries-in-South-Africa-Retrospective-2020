@@ -1,6 +1,6 @@
 ## Goal 4: Instructor Training 2020
 ### :star: Arrange at least two instructor training workshops for 2020
-- One instructor training took place 27-30 July, 09:00-13:00 online 
+- One instructor training [event](https://nwu-eresearch.github.io/2020-07-27-ttt-online-SAST/) took place 27-30 July, 09:00-13:00 online 
   - Four trainers from South Africa
     - Martin Dreyer
     - Angelique van Rensburg
