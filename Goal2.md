@@ -37,11 +37,11 @@ Communique regarding the developments in The Carpentries have been forwarded to 
   - SADiLaR - bi-weekly check-in arranged with members to help organise workshops and instructor training events 
     - Membership renewed in September 2020
       - Instructor training event carried over to 2021. 
-        - 9 Data Carpentry Workshops (completed)
-        - 1 In-person 
-        - 9 Online
-        - 1 Online Library Carpentry Workshop (completed
-        - 2 In-person Data Carpentry Workshops (cancelled due to pandemic)
+       - 9 Data Carpentry Workshops (completed)
+       - 1 In-person 
+       - 9 Online
+       - 1 Online Library Carpentry Workshop (completed
+       - 2 In-person Data Carpentry Workshops (cancelled due to pandemic)
 
 ### :star: Reach out to organisations who did not take up membership
 Embarking on a series of calls to investigate what universities in South Africa would like to see in the membership program. This will go hand in hand with the new membership program. 
