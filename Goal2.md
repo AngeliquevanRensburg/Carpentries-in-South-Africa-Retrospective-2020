@@ -48,11 +48,14 @@ Embarking on a series of calls to investigate what universities in South Africa 
 
 ### Milestones achieved:
 :star: Gather information on Membership options as it currently stands
+
 :star: Design marketing material for distribution to African Organisations/Universities
 
 ### Ongoing milestones:
 :star: Identify possible African Organisations/Universities to target and contact Identified organisations and inform them about the benefits of Membership at The Carpentries
+
 :star: Membership Check-in’s
+
 :star: Reach out to organisations who did not take up membership
 
 
