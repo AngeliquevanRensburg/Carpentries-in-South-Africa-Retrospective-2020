@@ -9,10 +9,10 @@
 - Received funding to the value of $18898 to host an online CarpentryConnect South Africa 2021. 
 
 
-### Milestones achieved:
+### :large_blue_diamond: Milestones achieved:
 :star: Financial Stability of the Carpentries in South Africa
 
-### Ongoing milestones:
+### :large_blue_diamond: Ongoing milestones:
 :star: Assist in creating an overall business plan to help The Carpentries achieve financial stability in the region
 
 :star: Sponsorship and Funding opportunities
