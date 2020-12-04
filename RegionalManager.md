@@ -1,9 +1,9 @@
 ## How does the role of Regional Consultant (Manager) look different to that of an [Regional Coordinator](https://docs.carpentries.org/topic_folders/workshop_administration/expectations.html)
 - Part of Core Team
- - Most of Core Team service North-America, Europe and Australasia
- - Thus a whole full fledged team servicing only a part of the globe. This does not include development of The Carpentries in this region. 
- - Biggest continents are Asia and Africa which historically are underrepresented on the Core Team/Carpentries Initiatives. 
- - Regional Manager’s role is to develop The Carpentries in their region. 
+  - Most of Core Team service North-America, Europe and Australasia
+  - Thus a whole full fledged team servicing only a part of the globe. This does not include development of The Carpentries in this region. 
+  - Biggest continents are Asia and Africa which historically are underrepresented on the Core Team/Carpentries Initiatives. 
+  - Regional Manager’s role is to develop The Carpentries in their region. 
   - Slots into the infrastructure and workflows already in place. 
 - Not only workshop administration but also recruitment of hosts for workshops
   - Evaluate, Adapt and Integrate current Workshop Administration Workflow for Africa
