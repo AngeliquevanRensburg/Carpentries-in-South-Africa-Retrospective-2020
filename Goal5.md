@@ -4,6 +4,7 @@
   - Hosted two skill-up events during [African Carpentries Monthly Meetup](https://pad.carpentries.org/ZA-community-call):
     - Skill-up 1: Online infrastructure to help during online workshops
     - Skill-up 2: The Senior Director of Technology at The Carpentries, Dr François Michonneau will be demonstrating how to adapt the Carpentries Website Template for use during your workshops
+      - A recording of the skill-up to be uploaded on YouTube.  
   - CS&C Funding has been granted to the value of $18 898 to host online CarpentryConnect South Africa 2021. 
 
 ### :large_blue_diamond: Milestones achieved:
