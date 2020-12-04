@@ -28,9 +28,9 @@
   - GLOBAL: **[Glosario](https://carpentries.github.io/glosario/)** is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson’s metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library’s functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several languages. Glosario now includes Afrikaans, isiZulu and soon Amharic. 
   - GLOBAL: Partner with organisations to promote equity, inclusion and access
       - We are partnering with the following institutions in Africa to promote the development of an African Carpentries Community. 
-    **[WACREN](https://wacren.net/en/news/women-wacren-physical-computing-python)**: Developing an asynchronous course for R with the use of the Carpentries lessons. 
-    * **[Open Computational Inclusion and Digital Equity Resource](https://selgebali.gitbook.io/opencider/)**: Monthly meetings with OpenCIDER who offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. They have a particular interest in low bandwidth countries and solutions.  
-    * **[Bioinformatics Hub of Kenya](https://bioinformaticshubofkenya.wordpress.com/)**: Mentoring the growth of this community in Kenya. 
+        * **[WACREN](https://wacren.net/en/news/women-wacren-physical-computing-python)**: Developing an asynchronous course for R with the use of the Carpentries lessons. 
+        * **[Open Computational Inclusion and Digital Equity Resource](https://selgebali.gitbook.io/opencider/)**: Monthly meetings with OpenCIDER who offers a space for sharing knowledge, advice, good practices, workflows and tools to facilitate computational training and big data analysis. They have a particular interest in low bandwidth countries and solutions.  
+        * **[Bioinformatics Hub of Kenya](https://bioinformaticshubofkenya.wordpress.com/)**: Mentoring the growth of this community in Kenya. 
     
 ##### Project for future consideration
 
