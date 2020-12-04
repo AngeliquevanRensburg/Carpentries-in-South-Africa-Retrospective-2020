@@ -11,7 +11,7 @@ Identified five universities
 - The University of KwaZulu Natal (UKZN)
   - An established Carpentries community at UKZN. No response to communication
 - The University of Cape Town (UCT)
-  - Not looking for membership at this moment. Reached our regarding Data Carpentry workshops (via SADiLaR) in 202
+  - Not looking for membership at this moment. Reached our regarding Data Carpentry workshops (via SADiLaR) in 2021
 - The University of Stellenbosch (US)
   - Interested however do not have funding
 - University of Witwatersrand (WITS)
