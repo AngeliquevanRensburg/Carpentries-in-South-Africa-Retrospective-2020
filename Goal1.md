@@ -1,4 +1,4 @@
-## Goal 1: Establish Communications Platform for African Carpentries Community
+## Goal 1: Communications Platform for African Carpentries Community
 ### :star: Review, update and maintain communications platforms aimed at the African Carpentries Community
 #### [Slack](https://swcarpentry.slack.com/archives/CR7AT9F08)
 - Channel was introduced in 2020 and have 36 members
