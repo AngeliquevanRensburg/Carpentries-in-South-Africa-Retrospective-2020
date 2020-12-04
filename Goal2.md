@@ -4,7 +4,7 @@ Various meetings with Elizabeth Williams regarding membership.
 
 ### :star: Design marketing material for distribution to African Organisations/Universities
 Researched information needed for future members and developed documentation. 
-[Membership One-pager](https://docs.google.com/document/d/124UXJnDdAArXxulgn07I63huc8zb8OKePLXzNoLQ2W4/edit) 
+- [Membership One-pager](https://docs.google.com/document/d/124UXJnDdAArXxulgn07I63huc8zb8OKePLXzNoLQ2W4/edit) 
 
 ### :star: Identify possible African Organisations/Universities to target and contact Identified organisations and inform them about the benefits of Membership at The Carpentries
 Identified five universities
