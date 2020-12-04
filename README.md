@@ -1,6 +1,6 @@
 # Carpentries in South Africa Retrospective 2020
 
-## [Goal 1](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal1.md): Establish Communications Platform for African Carpentries Community
+## [Goal 1](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal1.md): Communications Platform for African Carpentries Community
 ## [Goal 2](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal2.md): Membership Drive 2020
 ## [Goal 3](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal3.md): Workshop Administration
 ## [Goal 4](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal4.md): Instructor Training 2020
