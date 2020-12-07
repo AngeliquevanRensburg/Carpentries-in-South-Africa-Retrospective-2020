@@ -16,4 +16,4 @@
 
 
 ## :large_blue_diamond: Milestones achieved:
-:star: Arrange at least two instructor training workshops for 2020
+:star: Arrange at least one instructor training workshop for 2020
