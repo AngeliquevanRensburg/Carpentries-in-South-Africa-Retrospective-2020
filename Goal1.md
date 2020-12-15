@@ -25,7 +25,11 @@
 - Present findings to Core Team during [Lab meeting](https://docs.google.com/presentation/d/18HGHx6jp0Db7Nnlmh81xiEIXVrIK_SF2uq1Ya4-43YE/edit#slide=id.g8821cc9f2c_0_152)
 - Identify possible projects aligned with Carpentries values, mission and vision. Possible project were divided into initiatives aimed on Global, Regional or Instructor Training   levels: 
 ##### Current active projects
-  - GLOBAL: **[Glosario](https://carpentries.github.io/glosario/)** is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson’s metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library’s functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several languages. Glosario now includes Afrikaans, isiZulu and soon Amharic. 
+  - GLOBAL: **[Glosario](https://carpentries.github.io/glosario/)** is an open source glossary of terms used in data science that is available online and also as a library in both R and Python. By adding glossary keys to a lesson’s metadata, authors can indicate what the lesson teaches, what learners ought to know before they start, and where they can go to find that knowledge. Authors can also use the library’s functions to insert consistent hyperlinks for terms and definitions in their lessons in any of several languages. African languages included are: 
+     - Afrikaans
+     - isiZulu
+     - Amharic
+
   - GLOBAL: Partner with organisations to promote equity, inclusion and access
       - We are partnering with the following institutions in Africa to promote the development of an African Carpentries Community. 
         * **[WACREN](https://wacren.net/en/news/women-wacren-physical-computing-python)**: Developing an asynchronous course for R with the use of the Carpentries lessons. 
