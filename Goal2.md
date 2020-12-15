@@ -43,7 +43,7 @@ Communique regarding the developments in The Carpentries have been forwarded to 
        - 2 In-person Data Carpentry Workshops (cancelled due to pandemic)
 
 ### :star: Reach out to organisations who did not take up membership
-Embarking investigating what universities in South Africa would like to see in the membership program. This will go hand in hand with the new membership program. 
+Embarking investigating (i.e a survey asking stakeholders what they see as the most important aspects around taking up membership at their organisation) what universities in South Africa would like to see in the membership program. This will go hand in hand with the new membership program. 
 
 ### :large_blue_diamond: Milestones achieved:
 :star: Gather information on Membership options as it currently stands
