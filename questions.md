@@ -7,7 +7,7 @@
   - Financial stability needs to be investigated annually
   - We need to keep investigating funding and sponsorship opportunities
   - Continue to evaluate, adapt and integrate current workshop administration workflow for Africa
-- I have reached most of the milestones set out for 2021
+- I have reached most of the milestones set out for 2020
   - Reviewed, updated and maintained communications platforms
   - Review literature on issues of equity, access, diversity and inclusivity regarding teaching of basic coding skills in Africa. Suggested projects to address the issues identified:
     - Glosario
