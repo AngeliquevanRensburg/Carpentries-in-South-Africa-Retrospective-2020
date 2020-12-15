@@ -39,7 +39,7 @@
 ##### Project for future consideration
 
 - GLOBAL: Additional resources to accompany lessons (cheat sheets; videos; applications; asynchronous resources): [Mindmapping of lessons](https://docs.google.com/document/d/1NZbI2_ftYdGFTOZWjgrzb7ssN33Wu96j6bblKKirJZw/edit) is one of the initiatives to be investigated in 2021. 
-- GLOBAL: Datasets - access to more diverse datasets
+- GLOBAL: Datasets - access to more diverse datasets used in Carpentries lessons.
 - REGIONAL/GLOBAL: Multilingual instruction - basic translations/support within workshops by a native speaker
 - ITT: How to support learning difficulties
 - ITT: Computer literacy module - possibly partnering with other institutions (i.e Google for Africa)
