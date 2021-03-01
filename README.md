@@ -6,7 +6,7 @@
 ## [Goal 4](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal4.md): Instructor Training 2020
 ## [Goal 5](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal5.md): African Community Meetup 2020
 ## [Goal 6](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Goal6.md): Financial Stability
-## [Other activities](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/Other.md)
+## [Other activities](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/other.md)
 ## [Retrospective questions](https://github.com/AngeliquevanRensburg/Carpentries-in-South-Africa-Retrospective-2020/blob/main/questions.md)
 
 
