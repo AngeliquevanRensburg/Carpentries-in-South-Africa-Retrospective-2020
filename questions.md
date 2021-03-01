@@ -13,7 +13,7 @@
     - Glosario
       - isiZulu
       - Afrikaans
-      - Amhari (soon)
+      - Amharic (soon)
   - Piloted a membership drive in the region
     - Design marketing material regarding membership for distribution to African Organisations/Universities
     - Quarterly check-ins with member organisations in the region
